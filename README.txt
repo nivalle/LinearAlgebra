@@ -1,0 +1,1 @@
+This is a repository where I will track my lecture notes and homework solutions for Linear Algeba, taught by Gilbert Strang as part of MIT Open. I am revisiting some fundamental classes to strengthen my quantitative and analysitics skills.
